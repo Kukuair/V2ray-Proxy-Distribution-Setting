@@ -1,0 +1,25 @@
+[
+  {
+    "inboundTag": [],
+    "outboundTag": "block",
+    "domain": [
+      "geosite:win-update",
+      "domain:pinyin.sogou.com"
+    ],
+    "enabled": true
+  },
+  {
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:gfw",
+      "geosite:greatfire",
+      "domain:veepien.com"
+    ],
+    "enabled": true
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "direct",
+    "enabled": true
+  }
+]

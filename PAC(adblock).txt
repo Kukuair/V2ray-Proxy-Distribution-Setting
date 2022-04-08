@@ -1,0 +1,44 @@
+[
+  {
+    "inboundTag": [],
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all",
+      "geosite:win-spy",
+      "domain:browser.qq.com",
+      "flash",
+      "domain:macromedia.com",
+      "domain:sogou.com",
+      "jprj.com",
+      "domain:loc.map.baidu.com"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:gfw",
+      "geosite:greatfire",
+      "domain:veepien.com",
+      "domain:zhongzilou.com",
+      "domain:ipaddress.com",
+      "domain:macromedia.com",
+      "domain:vk.com",
+      "domain:sukebei.nyaa.si",
+      "domain:nyaa.si",
+      "domain:bing.com",
+      "domain:zh.hk1lib.org",
+      "domain:nya.iss.one",
+      "domain:xiaomi.eu",
+      "domain:cdnjs.cloudflare.com",
+      "domain:mvnrepository.com"
+    ],
+    "enabled": true
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "direct",
+    "enabled": true
+  }
+]
