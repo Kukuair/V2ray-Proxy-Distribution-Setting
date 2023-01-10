@@ -3,36 +3,46 @@
     "inboundTag": [],
     "outboundTag": "block",
     "domain": [
-      "geosite:category-ads-all",
-      "geosite:win-spy",
       "domain:browser.qq.com",
-      "flash",
+      "domain:loc.map.baidu.com",
       "domain:macromedia.com",
       "domain:sogou.com",
-      "jprj.com",
-      "domain:loc.map.baidu.com"
+      "flash",
+      "geosite:category-ads-all",
+      "geosite:win-spy",
+      "jprj.com"
     ],
     "enabled": true
   },
   {
     "inboundTag": [],
     "outboundTag": "proxy",
+    "ip": [
+      "geoip:telegram"
+    ],
     "domain": [
-      "geosite:gfw",
-      "geosite:greatfire",
-      "domain:veepien.com",
-      "domain:zhongzilou.com",
+      "domain:4sashi.com",
+      "domain:api.mudvod.tv",
+      "domain:bing.com",
       "domain:ipaddress.com",
       "domain:macromedia.com",
-      "domain:vk.com",
-      "domain:sukebei.nyaa.si",
-      "domain:nyaa.si",
-      "domain:bing.com",
-      "domain:zh.hk1lib.org",
+      "domain:mvnrepository.com",
+      "domain:nbys1.tv",
       "domain:nya.iss.one",
+      "domain:nyaa.si",
+      "domain:sukebei.nyaa.si",
+      "domain:veepien.com",
+      "domain:vk.com",
       "domain:xiaomi.eu",
-      "domain:cdnjs.cloudflare.com",
-      "domain:mvnrepository.com"
+      "domain:zh.hk1lib.org",
+      "domain:zhongzilou.com",
+      "geosite:gfw",
+      "geosite:greatfire",
+      "domain:zhuzhu12.xyz",
+      "domain:proton.me",
+      "domain:imgforst.net",
+      "domain:imgair.net",
+      "domain:dicmusic.club"
     ],
     "enabled": true
   },
