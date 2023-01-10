@@ -5,8 +5,8 @@
     "domain": [
       "geosite:category-ads-all",
       "geosite:win-spy",
-      "domain:pinyin.sogou.com",
-      "domain:flash.cn"
+      "domain:flash.cn",
+      "domain:sogou.com"
     ],
     "enabled": true
   },
